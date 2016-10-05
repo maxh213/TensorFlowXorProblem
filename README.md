@@ -1,6 +1,6 @@
 My attempt at learning tensorflow by re writing the code for someone elses solution to the XOR problem and trying to make sense of it.
 
-That persons code is here: 
+That person's code is here: 
 https://gist.github.com/pannous/2b8e2e05cf05a630b132
 
 
