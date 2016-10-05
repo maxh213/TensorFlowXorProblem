@@ -28,7 +28,7 @@ secondLayerOutput = tf.matmul(firstLayerOutput, secondLayerWeights)
 '''
 this is the activation function for the second layer 
 https://en.wikipedia.org/wiki/Softmax_function
-My current understanding of softmax is that is increases the rates for the 
+My current understanding of softmax is that is increases the weights for the 
 largest numbers and squashes the rest
 '''
 output = tf.nn.softmax(secondLayerOutput)
